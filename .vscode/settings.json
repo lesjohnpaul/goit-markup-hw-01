@@ -13,5 +13,6 @@
             "label": "Created By Me",
             "query": "is:open author:${user}"
         }
-    ]
+    ],
+    "liveServer.settings.port": 5501
 }
